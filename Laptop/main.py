@@ -1,3 +1,4 @@
-from threading import Thread
+from util import Client
 
-coms_thread =
+coms_thread = Client()
+
