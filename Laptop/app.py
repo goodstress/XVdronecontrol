@@ -41,4 +41,4 @@ class TestApp(App):
         layout.add_widget(l4)
         return layout
 
-TestApp().run()
+
